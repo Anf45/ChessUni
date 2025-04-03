@@ -1,6 +1,7 @@
-# ChessUni
+Anfas Azeez
 
 hhh folder is the full unity package to continue developing game
+	-hhh file was too big (3.5gb) and could not be zipped
 
 hhh.sln - all C# scripts
 
@@ -26,3 +27,8 @@ START GAME:
 		-host on one device
 		-on second device type ip address or 127.0.0.1
 		-to rematch, both devices must agree
+
+  python file runs on vscode (very early testing version)
+
+
+** to successfully run two applicatiobs at once on the same device, you will need to download the unity package from gihub, open through unity6 and run one window with cntrl b and the other on unity itself by clicking run
